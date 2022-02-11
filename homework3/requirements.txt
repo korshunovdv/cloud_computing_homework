@@ -1,0 +1,6 @@
+flask
+redis
+beautifulsoup4
+html5lib
+pandas
+requests
